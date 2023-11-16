@@ -1,0 +1,51 @@
+dcm,jpg,type
+/stage_1/0.dcm,/stage_1/0.jpg,1-st stage
+/stage_1/1.dcm,/stage_1/1.jpg,1-st stage
+/stage_1/2.dcm,/stage_1/2.jpg,1-st stage
+/stage_1/3.dcm,/stage_1/3.jpg,1-st stage
+/stage_1/4.dcm,/stage_1/4.jpg,1-st stage
+/stage_1/5.dcm,/stage_1/5.jpg,1-st stage
+/stage_1/6.dcm,/stage_1/6.jpg,1-st stage
+/stage_2/0.dcm,/stage_2/0.jpg,2-nd stage
+/stage_2/1.dcm,/stage_2/1.jpg,2-nd stage
+/stage_2/2.dcm,/stage_2/2.jpg,2-nd stage
+/stage_2/3.dcm,/stage_2/3.jpg,2-nd stage
+/stage_2/4.dcm,/stage_2/4.jpg,2-nd stage
+/stage_2/5.dcm,/stage_2/5.jpg,2-nd stage
+/stage_2/6.dcm,/stage_2/6.jpg,2-nd stage
+/stage_2/7.dcm,/stage_2/7.jpg,2-nd stage
+/stage_2/8.dcm,/stage_2/8.jpg,2-nd stage
+/stage_2/9.dcm,/stage_2/9.jpg,2-nd stage
+/stage_3/0.dcm,/stage_3/0.jpg,3-rd stage
+/stage_3/1.dcm,/stage_3/1.jpg,3-rd stage
+/stage_3/2.dcm,/stage_3/2.jpg,3-rd stage
+/stage_3/3.dcm,/stage_3/3.jpg,3-rd stage
+/stage_3/4.dcm,/stage_3/4.jpg,3-rd stage
+/stage_3/5.dcm,/stage_3/5.jpg,3-rd stage
+/stage_3/6.dcm,/stage_3/6.jpg,3-rd stage
+/stage_3/7.dcm,/stage_3/7.jpg,3-rd stage
+/stage_4/0.dcm,/stage_4/0.jpg,4-th stage
+/stage_4/1.dcm,/stage_4/1.jpg,4-th stage
+/stage_4/2.dcm,/stage_4/2.jpg,4-th stage
+/stage_4/3.dcm,/stage_4/3.jpg,4-th stage
+/stage_4/4.dcm,/stage_4/4.jpg,4-th stage
+/stage_4/5.dcm,/stage_4/5.jpg,4-th stage
+/stage_4/6.dcm,/stage_4/6.jpg,4-th stage
+/stage_4/7.dcm,/stage_4/7.jpg,4-th stage
+/arthritis/0.dcm,/arthritis/0.jpg,arthritis
+/arthritis/1.dcm,/arthritis/1.jpg,arthritis
+/arthritis/2.dcm,/arthritis/2.jpg,arthritis
+/arthritis/3.dcm,/arthritis/3.jpg,arthritis
+/arthritis/4.dcm,/arthritis/4.jpg,arthritis
+/arthritis/5.dcm,/arthritis/5.jpg,arthritis
+/arthritis/6.dcm,/arthritis/6.jpg,arthritis
+/arthritis/7.dcm,/arthritis/7.jpg,arthritis
+/arthritis/8.dcm,/arthritis/8.jpg,arthritis
+/fracture/0.dcm,/fracture/0.jpg,fracture
+/fracture/1.dcm,/fracture/1.jpg,fracture
+/fracture/2.dcm,/fracture/2.jpg,fracture
+/fracture/3.dcm,/fracture/3.jpg,fracture
+/fracture/4.dcm,/fracture/4.jpg,fracture
+/fracture/5.dcm,/fracture/5.jpg,fracture
+/fracture/6.dcm,/fracture/6.jpg,fracture
+/fracture/7.dcm,/fracture/7.jpg,fracture
